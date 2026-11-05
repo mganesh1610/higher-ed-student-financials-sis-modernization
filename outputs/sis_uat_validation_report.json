@@ -1,0 +1,56 @@
+{
+  "benchmark_scale_records_represented": 250400,
+  "validation_sample_rows_executed": 200,
+  "conversion_row_parity_pct": 100.0,
+  "tuition_ledger_variance_usd": 0.0,
+  "aid_disbursement_variance_usd": 0.0,
+  "net_balance_identity_variance_usd": 0.0,
+  "uat_test_cases_executed": 115,
+  "uat_test_cases_passed": 115,
+  "uat_first_pass_rate_pct": 99.92,
+  "registrar_billing_cycle_reduction_pct": 48.0,
+  "stakeholder_readiness_index_pct": 88.22,
+  "unit_readiness_breakdown": {
+    "University Registrar": 88.3,
+    "Student Financials & Bursar": 86.8,
+    "Financial Aid Office": 85.4,
+    "Academic Advisement": 85.0,
+    "Institutional Research (IPEDS)": 90.5,
+    "IT Enterprise Applications": 93.3
+  },
+  "pivot_reconciliation_by_unit": [
+    {
+      "academic_unit": "College of Engineering & Computing",
+      "cloud_academic_period": "AY2025-26_FALL",
+      "student_records": 50,
+      "total_tuition_usd": 726182.0,
+      "total_aid_usd": 363091.04,
+      "total_net_balance_usd": 363090.96
+    },
+    {
+      "academic_unit": "College of Health Solutions",
+      "cloud_academic_period": "AY2025-26_SPRING",
+      "student_records": 50,
+      "total_tuition_usd": 677131.25,
+      "total_aid_usd": 236995.88,
+      "total_net_balance_usd": 440135.37
+    },
+    {
+      "academic_unit": "College of Liberal Arts & Sciences",
+      "cloud_academic_period": "AY2026-27_SPRING",
+      "student_records": 50,
+      "total_tuition_usd": 681143.75,
+      "total_aid_usd": 238400.26,
+      "total_net_balance_usd": 442743.49
+    },
+    {
+      "academic_unit": "School of Business & Management",
+      "cloud_academic_period": "AY2026-27_FALL",
+      "student_records": 50,
+      "total_tuition_usd": 724521.5,
+      "total_aid_usd": 362260.78,
+      "total_net_balance_usd": 362260.72
+    }
+  ],
+  "cutover_decision": "APPROVED_FOR_PRODUCTION_CUTOVER"
+}

@@ -1,0 +1,7 @@
+interview_id,functional_unit,stakeholder_role,manual_touchpoints_per_week,legacy_pain_severity,change_readiness_score,training_readiness_score,key_qualitative_theme,ictri_score_pct,readiness_tier
+INT-01,University Registrar,Associate Registrar,18,4.6,4.5,4.2,Eliminate manual spreadsheet term-rollover bottlenecks,88.3,High Readiness
+INT-02,Student Financials & Bursar,Director of Student Accounts,24,4.8,4.4,4.0,Automate tuition-to-aid VLOOKUP crosswalk reconciliation,86.8,High Readiness
+INT-03,Financial Aid Office,Senior Aid Compliance Lead,20,4.5,4.3,4.1,Real-time federal/institutional grant disbursement parity,85.4,High Readiness
+INT-04,Academic Advisement,Lead Academic Advisor,15,4.1,4.2,4.4,Unified degree-audit and credit-hour registration visibility,85.0,High Readiness
+INT-05,Institutional Research (IPEDS),Principal BI Analyst,16,4.4,4.6,4.5,Standardize IPEDS census & cohort reporting pipelines,90.5,High Readiness
+INT-06,IT Enterprise Applications,ERP Systems Integration Lead,22,4.7,4.7,4.6,Enforce automated UAT gate before production cutover,93.3,High Readiness
