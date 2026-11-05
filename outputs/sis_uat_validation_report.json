@@ -52,5 +52,7 @@
       "total_net_balance_usd": 362260.72
     }
   ],
-  "cutover_decision": "APPROVED_FOR_PRODUCTION_CUTOVER"
+  "cutover_decision": "APPROVED_FOR_PRODUCTION_CUTOVER",
+  "uat_execution_log_csv": "sis_115_uat_execution_log.csv",
+  "excel_reconciliation_workbook": "sis_student_financials_reconciliation.xlsx"
 }
